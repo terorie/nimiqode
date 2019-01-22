@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/nimiq-design/nimiqode#readme",
   "dependencies": {
+    "canvas": "^2.3.1",
     "ldpc-js": "git+https://github.com/danimoh/LDPC-JS.git"
   },
   "devDependencies": {

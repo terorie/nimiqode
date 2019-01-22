@@ -2,6 +2,7 @@ const gulp = require('gulp');
 const concat = require('gulp-concat');
 
 const SOURCES = [
+    'index.prefix.js',
     'src/*.js',
     'index.suffix.js'
 ];
