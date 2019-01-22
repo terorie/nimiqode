@@ -23,5 +23,9 @@
   "homepage": "https://github.com/nimiq-design/nimiqode#readme",
   "dependencies": {
     "ldpc-js": "git+https://github.com/danimoh/LDPC-JS.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1"
   }
 }
